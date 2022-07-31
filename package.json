@@ -1,0 +1,19 @@
+{
+  "name": "fuck",
+  "version": "1.0.0",
+  "description": "Been told there was not sufficient documentation pertaining to this repository.",
+  "main": "i<3Javascript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lekekbot/fuck.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lekekbot/fuck/issues"
+  },
+  "homepage": "https://github.com/lekekbot/fuck#readme"
+}
